@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: https://baronfamily.github.io/ # Add your website address here
 branding:
-  title: Project Name
-  label: Docs
+  title: Family Site
+  label: Site
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
